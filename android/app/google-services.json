@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "961456141602",
+    "project_id": "higgs-domino-guide-d861c",
+    "storage_bucket": "higgs-domino-guide-d861c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961456141602:android:429b36c07b47a95f10e17b",
+        "android_client_info": {
+          "package_name": "com.al2_cara_menggunakan_2wa_di_1hp_sekaligus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961456141602-gmeu7qe8v85rpm4qaj8huhlkllrfcbq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDozE7ZduSmoo1QxccKczFISVque1hLOYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961456141602-gmeu7qe8v85rpm4qaj8huhlkllrfcbq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961456141602:android:750a2e94f9b2626810e17b",
+        "android_client_info": {
+          "package_name": "s7.higgsdominoguide.x8speederdominocasino.winnerguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961456141602-gmeu7qe8v85rpm4qaj8huhlkllrfcbq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDozE7ZduSmoo1QxccKczFISVque1hLOYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961456141602-gmeu7qe8v85rpm4qaj8huhlkllrfcbq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
