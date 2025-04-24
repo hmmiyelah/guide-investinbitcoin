@@ -1,0 +1,8 @@
+{
+  "name": "Invest in Bitcoin",
+  "displayName": "Invest in Bitcoin",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5403151953456829~9985591257",
+    "ios_app_id": "ca-app-pub-5403151953456829~9985591257"
+  }
+}

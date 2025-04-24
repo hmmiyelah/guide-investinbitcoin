@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/SF UI Display.ttf",
+      "sha1": "ce1986f0fc2771854e015bf63543c6c88d60af25"
+    },
+    {
+      "path": "assets/fonts/livvic_medium.ttf",
+      "sha1": "3011b9a511c5c6b814a04cbec1e12c76e453c8a4"
+    },
+    {
+      "path": "assets/fonts/motion_picture.ttf",
+      "sha1": "e8a4b13bdd2ba43c5e4a6f68f1522e31602726a4"
+    }
+  ]
+}
