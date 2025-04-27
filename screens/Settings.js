@@ -8,6 +8,7 @@ import {
   Switch,
   Linking,
   Share,
+  SafeAreaView,
 } from 'react-native';
 import {appLink, colors} from '../utils/index.js';
 import NativeBigAd from '../components/NativeBigAd.js';
@@ -68,7 +69,7 @@ export default class Settings extends Component {
 
   render() {
     return (
-      <View style={{flex: 1, width: '100%', height: '100%'}}>
+      <SafeAreaView style={{flex: 1}}>
         <Image
           source={require('../assets/images/bg01.png')}
           style={{
@@ -328,7 +329,7 @@ export default class Settings extends Component {
             </Text>
           </TouchableOpacity>
         </ScrollView>
-        <BannerSmallAd />
+        <BannerSmallAd style={{marginBottom: 30}} />
         {/* <NativeAdView
           style={{
             width: '100%',
@@ -412,7 +413,7 @@ export default class Settings extends Component {
             </View>
           </View>
         </NativeAdView> */}
-      </View>
+      </SafeAreaView>
     );
   }
 }

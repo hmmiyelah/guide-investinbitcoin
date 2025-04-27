@@ -160,7 +160,7 @@ const Guide = () => {
                   }}
                   onPress={() => openGuideContent(item, index)}>
                   <LinearGradient
-                    colors={['#f55b18', '#eea849ff']}
+                    colors={['#1D1D1D', '#2A5161']}
                     style={{height: '100%', borderRadius: 8}}>
                     <View
                       style={{
