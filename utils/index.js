@@ -14,7 +14,7 @@ export const admobs = {
     ? 'ca-app-pub-3940256099942544/2247696110'
     : 'ca-app-pub-5403151953456829/1890381339',
 };
-
+//
 // export const admobs = {
 //   banner: 'ca-app-pub-3940256099942544/9214589741',
 //   interstitial: 'ca-app-pub-3940256099942544/1033173712',
